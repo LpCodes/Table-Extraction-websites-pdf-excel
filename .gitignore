@@ -2,3 +2,5 @@ myenv
 .vscode
 /myenv
 /.vscode
+myenv/
+.vscode/
