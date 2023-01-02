@@ -1,3 +1,3 @@
-# Table-Extraction-websites-pdf-excel
+# Table-Extraction-websites-excel
 
 fetches tables from a given website
